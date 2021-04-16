@@ -1,4 +1,5 @@
 # Hackintosh-Gigabyte-Z390M-GAMING_10.15.7
+## 配置
 Gigabyte-Z390M-GAMING
 
 i5-9600k
