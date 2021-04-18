@@ -1,4 +1,4 @@
-# Hackintosh-Gigabyte-Z390M-GAMING_10.15.7
+# Hackintosh-Gigabyte-Z390M-GAMING_11.2.3
 ## 配置
 Gigabyte-Z390M-GAMING
 
